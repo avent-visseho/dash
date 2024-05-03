@@ -1,0 +1,16 @@
+@import './base.css';
+
+/* Index view */
+@import '../../src/Admin/dist/assets/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.css';
+@import '../../src/Admin/dist/assets/css/preloader.min.css';
+@import '../../src/Admin/dist/assets/css/bootstrap.min.css';
+@import '../../src/Admin/dist/assets/css/icons.min.css';
+@import '../../src/Admin/dist/assets/css/app.min.css';
+
+/*Calendar view */
+
+@import '../../src//Admin/dist/assets/libs/@fullcalendar/core/main.min.css';
+@import '../../src//Admin/dist/assets/libs/@fullcalendar/daygrid/main.min.css';
+@import '../../src//Admin/dist/assets/libs/@fullcalendar/bootstrap/main.min.css';
+@import '../../src//Admin/dist/assets/libs/@fullcalendar/timegrid/main.min.css';
+@import '../../src//Admin/dist/assets/libs/@fullcalendar/timegrid/main.min.css';
